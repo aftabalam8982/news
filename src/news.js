@@ -1,171 +1,5 @@
 export const news = [
   {
-    Title:
-      "Biden weighs up direct military strikes against Houthi sites in Yemen to avoid the $2million cost per shot of bringing down the rebel group's attack drones in bid to protect trade routes through the R",
-    Source: "dailymail.co.uk",
-    Url: "https://www.dailymail.co.uk/news/article-12885435/biden-houthi-iran-military-strikes-red-sea.html#comments",
-    PublishedOn: "2023-12-20T13:29:04.000Z",
-    Description:
-      "The Pentagon is keeping its cards close to its chest amid reports that officials have offered Biden an option for direct military strikes against Houthi rebels in Yemen.",
-    Language: "en",
-    Image:
-      "https://i.dailymail.co.uk/1s/2023/12/20/13/79087667-0-A_Houthi_military_helicopter_flies_over_the_Galaxy_Leader_cargo_-a-13_1703078929837.jpg",
-    SourceNationality: "gb",
-    TitleSentiment: {
-      sentiment: "positive",
-      score: 0.69,
-    },
-    Summary:
-      "The Biden administration could be looking at another strategy in its battle with the Houthi rebels in Yemen a step further after it emerged that the cost of shooting down one of the group's drones over the Red Sea is around $2 million. Earlier this week, the Pentagon announced a ten country coalition that would serve as a deterrent against terror attacks by the Houthis in the Red Sea corridor.",
-    Countries: ["il", "nl", "ir", "gb", "us", "bh", "no", "ye"],
-    Categories: {
-      label: "javelin throw",
-      IPTCCode: "medtop:20000835",
-    },
-  },
-  {
-    Title: "Stories about: flying cars",
-    Source: "autoevolution.com",
-    Url: "https://www.autoevolution.com/newstag/flying%20cars",
-    PublishedOn: "2023-12-20T12:39:43.734Z",
-    Description: "Stories about flying cars - December 20th 2023",
-    Language: "en",
-    Image:
-      "https://s1.cdn.autoevolution.com/images/news/this-contemporary-off-grid-cabin-on-wheels-is-the-first-step-to-total-freedom-226376-5.jpg",
-    SourceNationality: "ro",
-    TitleSentiment: {
-      sentiment: "positive",
-      score: 0.46,
-    },
-    Summary:
-      "So, what do new, upcoming motion pictures give us in terms of ...\n\n/ All those who believed hybrid aircraft (hybrid meaning, at least here, an aircraft mixed with a car, or, if you like, flying cars) have no chance of becoming reality, should think again. Terrafugia,...",
-    Countries: ["kr"],
-    Categories: {
-      label: "satellite technology",
-      IPTCCode: "medtop:20000228",
-    },
-  },
-  {
-    Title:
-      "Beware costs and logistics of at-home chargers before buying an electric car, experts say",
-    Source: "theglobeandmail.com",
-    Url: "https://www.theglobeandmail.com/business/industry-news/energy-and-resources/article-beware-costs-and-logistics-of-at-home-chargers-before-buying-an",
-    PublishedOn: "2023-12-20T12:37:44.000Z",
-    Description:
-      "Daniel Breton, head of the industry association Electric Mobility Canada, says the problem is people have limited knowledge and understanding of electric vehicle chargers",
-    Language: "en",
-    Image:
-      "https://www.theglobeandmail.com/resizer/v2/XS567ANR3NKATKJF3ZBAZEBDYM.JPG?auth=0a9a39d265cd6ea9c671b62ff22c07f395e18e0d4615057cff699ab2472959ae&width=1200&height=800&quality=80",
-    SourceNationality: "ca",
-    TitleSentiment: {
-      sentiment: "positive",
-      score: 0.54,
-    },
-    Summary:
-      "An Electric Mobility Canada survey found 88 per cent of respondents said they would like their next vehicle to be electric but only 13 per cent claimed to have an in-depth understanding of EVs, including the number of public charging stations, government rebates and battery life, among other aspects. Marmer, who has been installing electric vehicle charges for about seven years, said it’s important to understand the driver’s parking style.",
-    Countries: ["ca"],
-    Categories: {
-      label: "electrical appliance",
-      IPTCCode: "medtop:20000298",
-    },
-  },
-  {
-    Title:
-      "Heartless fraudsters conned the public out of £500,000 by buying Pudsey Bear outfits and posing as collectors for children's charities - before splurging on luxury holidays and fast cars",
-    Source: "dailymail.co.uk",
-    Url: "https://www.dailymail.co.uk/news/article-12885159/fraudster-gang-conned-public-childrens-charty-collectors-pudsey-bear-outfits.html#comments",
-    PublishedOn: "2023-12-20T11:50:36.000Z",
-    Description:
-      "A group of seven criminals, led by David Levi, 49 (pictured), used T-shirts, logos and marketing material from the charities to set up fake collections at supermarkets across England and Scotland.",
-    Language: "en",
-    Image:
-      "https://i.dailymail.co.uk/1s/2023/12/20/11/79166737-0-image-m-44_1703072912728.jpg",
-    SourceNationality: "gb",
-    TitleSentiment: {
-      sentiment: "negative",
-      score: -0.46,
-    },
-    Summary:
-      "They claimed to be raising money for Children In Need, The Children's Society, MIND, Great Ormond Street Hospital, and The Christie Fund, but only a small amount of the takings were handed over to the charities and the gang pocketed the rest. On some occasions, the fraudsters, who were led by David Levi, 49, wore Pudsey Bear outfits which had been bought online, and used email addresses and websites set up to look like legitimate charities, Preston Crown Court heard.",
-    Countries: ["us", "au", "ae", "gb"],
-    Categories: {
-      label: "fraud",
-      IPTCCode: "medtop:20000097",
-    },
-  },
-  {
-    Title:
-      "Pat Shortt: ‘My daughter didn’t recognise me at the airport. I got very upset’",
-    Source: "irishtimes.com",
-    Url: "http://www.irishtimes.com/health/your-family/2023/05/09/pat-shortt-my-daughter-didnt-recognise-me-at-the-airport-i-got-very-upset",
-    PublishedOn: "2023-12-20T11:34:52.045Z",
-    Description:
-      "Parenting in My Shoes: The actor believes losing his mother at the age of seven has partly shaped his approach to parenthood",
-    Language: "en",
-    Image:
-      "https://www.irishtimes.com/resizer/8jHPQ1z5kQQUlWMYf7otOhumAhE=/1200x630/filters:format(jpg):quality(70):focal(845x331:855x341)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/5HPZDANELZHWBLUM37ZWY3GWVM.JPG",
-    SourceNationality: "ie",
-    TitleSentiment: {
-      sentiment: "negative",
-      score: -0.93,
-    },
-    Summary:
-      "“I remember when it happened having to go to work that night,” Pat recalls. It’s why, perhaps, he was so upset when his daughter Faye didn’t recognise him that time in the airport.",
-    Countries: ["us"],
-    Categories: {
-      label: "labor",
-      IPTCCode: "medtop:09000000",
-    },
-  },
-  {
-    Title:
-      "NHS manager and her construction boss partner are BOTH banned from the road after they were each caught drink driving on the same night following evening out at the pub",
-    Source: "dailymail.co.uk",
-    Url: "http://www.dailymail.co.uk/news/article-12885151/NHS-manager-construction-boss-partner-wife-banned-drink-driving.html",
-    PublishedOn: "2023-12-20T11:34:15.000Z",
-    Description:
-      "NHS manageress Linda Gillard, 59, and partner Michael Gill, also 59, had been drowning their sorrows at The Bowling Green pub in Nantwich on the evening of November 16.",
-    Language: "en",
-    Image:
-      "https://i.dailymail.co.uk/1s/2023/12/20/11/79167037-0-image-a-29_1703070829384.jpg",
-    SourceNationality: "gb",
-    TitleSentiment: {
-      sentiment: "negative",
-      score: -0.74,
-    },
-    Summary:
-      "Gill failed his breath test when it was discovered he too had been driving his works Ford Transit tipper truck whilst drunk that same evening. At Warrington magistrates court Gillard was banned from driving for 42 months after she admitted drink driving, driving without insurance and failing to stop after an accident.",
-    Countries: [],
-    Categories: {
-      label: "labor",
-      IPTCCode: "medtop:09000000",
-    },
-  },
-  {
-    Title:
-      "A deep dive into COE prices in Singapore: Does the system need an update?",
-    Source: "channelnewsasia.com",
-    Url: "https://www.channelnewsasia.com/singapore/coe-prices-car-premiums-deep-dive-does-bidding-system-need-update-3936056",
-    PublishedOn: "2023-12-20T11:27:21.667Z",
-    Description:
-      "Should certificates of entitlement (COE) for cars be longer than 10 years? Why can’t we have additional buyers’ stamp duty for cars or create car categories based on needs? We take suggestions from the public on refining the COE system to the experts.",
-    Language: "en",
-    Image:
-      "https://onecms-res.cloudinary.com/image/upload/s--O6pJmxsP--/w_800/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/04/COE%20chart%20CNA.png?itok=oTAhd6CP",
-    SourceNationality: "sg",
-    TitleSentiment: {
-      sentiment: "negative",
-      score: -0.22,
-    },
-    Summary:
-      "For perspective, a typical family car such as the base model 1.6-litre Toyota Corolla Altis was marketed at about S$173,000 during that time, taking into account COE registration. In land-scarce Singapore, owning a car naturally comes at a cost.",
-    Countries: ["sg"],
-    Categories: {
-      label: "contract issue-wages",
-      IPTCCode: "medtop:20000527",
-    },
-  },
-  {
     Title: "RSA welcome new speed limit measures agreed by Cabinet",
     Source: "eveningecho.ie",
     Url: "http://www.eveningecho.ie/nationalnews/arid-41294275.html",
@@ -350,6 +184,205 @@ export const news = [
     Categories: {
       label: "economic sector",
       IPTCCode: "medtop:20000209",
+    },
+  },
+];
+
+export const countries = [
+  {
+    Title:
+      "Pakistan: Jailed Imran Khan’s nomination papers submitted despite disqualification",
+    Source: "telanganatoday.com",
+    Url: "https://telanganatoday.com/pakistan-jailed-imran-khans-nomination-papers-submitted-despite-disqualification",
+    PublishedOn: "2023-12-22T17:28:30.000Z",
+    Description:
+      "Khan's legal team says that the district court, which sent Khan to jail and had him disqualified, gave a",
+    Language: "en",
+    Image:
+      "https://cdn.telanganatoday.com/wp-content/uploads/2023/10/Imran-Khan-2.jpg",
+    SourceNationality: "in",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 1,
+    },
+    Summary:
+      "The cricketer-turned-politician was sent to jail for three years on August 5 after being found guilty of selling state gifts during his 2018-22 tenure as prime minister — the charges he denies, Geo News reported. Khan’s legal team says that the district court, which sent Khan to jail and had him disqualified, gave a “baseless” judgment.",
+    Countries: ["pk"],
+    Cities: ["Mianwali", "Islamabad", "Islamabad"],
+    Categories: {
+      label: "judiciary",
+      IPTCCode: "medtop:20000106",
+    },
+  },
+  {
+    Title: "Karnataka to withdraw Hijab ban, announces CM Siddaramaiah",
+    Source: "telanganatoday.com",
+    Url: "https://telanganatoday.com/karnataka-to-withdraw-hijab-ban-announces-cm-siddaramaiah",
+    PublishedOn: "2023-12-22T17:16:55.000Z",
+    Description:
+      "Reacting to the announcement made by Karnataka Chief Minister, Karnataka BJP said that Siddaramaiah is sowing the poison of religion in the state.",
+    Language: "en",
+    Image:
+      "https://cdn.telanganatoday.com/wp-content/uploads/2023/12/Siddaramaiah-2-768x450-1.jpg",
+    SourceNationality: "in",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.86,
+    },
+    Summary:
+      "The previous BJP government in the State had imposed a Hijab ban on students in educational institutions. The matter reached the Karnataka High Court which also upheld the ban imposed by the then BJP government.",
+    Countries: [],
+    Cities: ["Udupi", "Mysuru"],
+    Categories: {
+      label: "religion and belief",
+      IPTCCode: "medtop:12000000",
+    },
+  },
+  {
+    Title: "Madhya Pradesh CM, his deputies meet PM Modi in Delhi",
+    Source: "thehansindia.com",
+    Url: "http://www.thehansindia.com/news/national/madhya-pradesh-cm-his-deputies-meet-pm-modi-in-delhi-846134",
+    PublishedOn: "2023-12-22T16:30:50.000Z",
+    Description:
+      "Madhya Pradesh Chief Minister Mohan Yadav along with his two deputies -- Rajendra Shukla and Jagdish Devda met Prime Minister Narendra Modi in the national capital on Friday.",
+    Language: "en",
+    Image:
+      "https://assets.thehansindia.com/h-upload/2023/12/22/1408687-mod.jpg",
+    SourceNationality: "in",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.73,
+    },
+    Summary:
+      "Sources said the meeting with PM Modi and Shah was beyond the discussion over cabinet. There has been a speculation that the BJP's central leadership wants to review the situation in Madhya Pradesh before the names of cabinet ministers are announced.",
+    Countries: [],
+    Cities: ["Ayodhya", "Bhopal"],
+    Categories: {
+      label: "politics",
+      IPTCCode: "medtop:11000000",
+    },
+  },
+  {
+    Title:
+      "THIS Artificial Intelligence can now 'accurately' predict when you will die",
+    Source: "timesofindia.indiatimes.com",
+    Url: "https://timesofindia.indiatimes.com/etimes/trending/this-artificial-intelligence-can-now-accurately-predict-when-you-will-die/articleshow/106217605.cms",
+    PublishedOn: "2023-12-22T16:30:00.000Z",
+    Description:
+      "Trending News: A new AI death calculator can accurately predict the death of an individual with over 75% accuracy. The calculator, based on the 'life2vec' algorithm,",
+    Language: "en",
+    Image:
+      "https://static.toiimg.com/thumb/msid-106217620,width-1070,height-580,imgsize-602913,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    SourceNationality: "in",
+    TitleSentiment: {
+      sentiment: "negative",
+      score: -0.6,
+    },
+    Summary:
+      'This calculator can predict the death of an individual with more than 75% accuracy. "A newly developed AI death calculator can now forecast when a person will die with eerily exact accuracy," the NewYork Post reported.',
+    Countries: ["us"],
+    Cities: ["York", "York", "New York", "Shakti", "Chincholi"],
+    Categories: {
+      label: "artificial intelligence",
+      IPTCCode: "medtop:20001298",
+    },
+  },
+  {
+    Title:
+      "ED issues third summons to Arvind Kejriwal for appearance on January 3 in excise policy case",
+    Source: "telanganatoday.com",
+    Url: "https://telanganatoday.com/ed-issues-third-summons-to-arvind-kejriwal-for-appearance-on-january-3-in-excise-policy-case",
+    PublishedOn: "2023-12-22T16:09:51.000Z",
+    Description:
+      "This is the third notice to Kejriwal, also the national convenor of the Aam Aadmi Party (AAP), after he refused to appear before the federal agency on two earlier summons for November 2 and December 21.",
+    Language: "en",
+    Image:
+      "https://cdn.telanganatoday.com/wp-content/uploads/2023/09/Kejriwal-3.jpg",
+    SourceNationality: "in",
+    TitleSentiment: {
+      sentiment: "negative",
+      score: -0.43,
+    },
+    Summary:
+      "This is the third notice to Kejriwal, also the national convenor of the Aam Aadmi Party (AAP), after he refused to appear before the federal agency on two earlier summons for November 2 and December 21. The chief minister is currently undertaking a Vipassana meditation course.",
+    Countries: [],
+    Cities: ["Delhi", "New Delhi"],
+    Categories: {
+      label: "appeal (court)",
+      IPTCCode: "medtop:20000108",
+    },
+  },
+  {
+    Title:
+      '"Info From WhatsApp University": DMK On Finance Minister\'s Flood Alert Claim',
+    Source: "ndtv.com",
+    Url: "https://www.ndtv.com/india-news/nirmala-sitharaman-info-from-whatsapp-university-dmk-on-finance-ministers-flood-alert-claim-4724257",
+    PublishedOn: "2023-12-22T16:06:12.000Z",
+    Description:
+      "The blame game between the Centre and Tamil Nadu over the devastating floods in the state's southern districts escalated on Friday.",
+    Language: "en",
+    Image:
+      "https://c.ndtvimg.com/2023-11/vp5pua8g_nirmala-sitharaman_625x300_14_November_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20231203.06",
+    SourceNationality: "in",
+    TitleSentiment: {
+      sentiment: "negative",
+      score: -0.37,
+    },
+    Summary:
+      "\"Only on December 17 did the Met Department alert 'extremely heavy rainfall' for the 17th and 18th,\" Mr Stalin said during a visit to the flood-affected districts. DMK spokesperson A Saravanan said, \"If Nirmala spoke as a BJP politician, she has taken information from their 'WhatsApp University'.",
+    Countries: ["lk"],
+    Cities: ["Nirmala", "Tirunelveli", "Chennai", "Kanniyakumari", "Tenkasi"],
+    Categories: {
+      label: "meteorological disaster",
+      IPTCCode: "medtop:20000157",
+    },
+  },
+  {
+    Title: "Pallavi Prashanth gets bail; will be out from bars soon",
+    Source: "thehansindia.com",
+    Url: "http://www.thehansindia.com/cinema/tollywood/pallavi-prashanth-gets-bail-will-be-out-from-bars-soon-846131",
+    PublishedOn: "2023-12-22T16:04:07.000Z",
+    Description:
+      "In an unexpected turn of events, Pallavi Prashanth, the recently crowned winner of the Bigg Boss reality show, found himself under arrest by Telangana police shortly after his victory.",
+    Language: "en",
+    Image:
+      "https://assets.thehansindia.com/h-upload/2023/12/22/1408653-pallavi-prashanth.jpg",
+    SourceNationality: "in",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.96,
+    },
+    Summary:
+      "The arrest was linked to his alleged involvement in the destruction of public property during clashes between his fans and supporters of other contestants. The court, noting a lack of substantial evidence connecting Prashanth to the conspiracy of property damage, granted bail.",
+    Countries: [],
+    Cities: [],
+    Categories: {
+      label: "arrest",
+      IPTCCode: "medtop:20000130",
+    },
+  },
+  {
+    Title: "डेरेक ओ'ब्रायन पहुंचे सदन, PM मोदी ने मंत्रि",
+    Source: "haribhoomi.com",
+    Url: "http://www.haribhoomi.com/national/news/parliament-winter-session-uproar-on-security-breach-five-congress-mp-suspended-from-lok-sabha-528",
+    PublishedOn: "2023-12-22T15:57:43.106Z",
+    Description:
+      "Parliament Winter Session Uproar On Security Breach: सुरक्षा में चूक मामले को लेकर संसद के दोनों सदनों में गुरुवार को जमकर हंगामा हुआ। लोकसभा और राज्यसभा में विपक्षी नेताओं ने सरकार के खिलाफ नारेबाजी की।",
+    Language: "en",
+    Image:
+      "https://images.naisadi.com/uploadimage/library/16_9/16_9_5/Lok_Sabha_1702547490.webp",
+    SourceNationality: "in",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.66,
+    },
+    Summary:
+      "A total of 15 MPs suspended from the Parliament today for the remainder of the winter session - 14 from Lok Sabha and one from Rajya Sabha. (File pic) pic.twitter.com/q3ZXo8RDtb\n\nA total of 15 MPs suspended from the Parliament today for the remainder of the winter session - 14 from Lok Sabha and one from Rajya Sabha.",
+    Countries: [],
+    Cities: [],
+    Categories: {
+      label: "upper house (legislature)",
+      IPTCCode: "medtop:20000617",
     },
   },
 ];

@@ -1,24 +1,35 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
-const nav = [
-  "General",
-  "Business",
-  "Entertainment",
-  "Health",
-  "Science",
-  "Technology",
-];
+// const nav = [
+//   "General",
+//   "Business",
+//   "Entertainment",
+//   "Health",
+//   "Science",
+//   "Technology",
+// ];
 
 const NavBar = () => {
   return (
-    <div>
-      {nav.map((navItem) => {
-        return (
-          <button class="bg-slate-500 hover:bg-slate-700 text-white font-small py-2 px-3 rounded-xl mx-5 mt-2">
-            {navItem}
-          </button>
-        );
-      })}
+    <div className=" text-center py-8">
+      <Link to="/list">
+        <button className="bg-slate-500 hover:bg-slate-700 text-white font-small py-2 px-3 rounded-xl mx-5 mt-2">
+          Search Topic
+        </button>
+      </Link>
+      <Link to="/country">
+        <button className="bg-slate-500 hover:bg-slate-700 text-white font-small py-2 px-3 rounded-xl mx-5 mt-2">
+          Country
+        </button>
+      </Link>
+
+      <button className="bg-slate-500 hover:bg-slate-700 text-white font-small py-2 px-3 rounded-xl mx-5 mt-2">
+        Crypto
+      </button>
+      <button className="bg-slate-500 hover:bg-slate-700 text-white font-small py-2 px-3 rounded-xl mx-5 mt-2">
+        World
+      </button>
     </div>
   );
 };

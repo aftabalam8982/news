@@ -1,14 +1,14 @@
 import React from "react";
-import NewsCard from "./news-card.component";
-import { news } from "../news";
+import NewsCard from "../news-card.component";
+import { news } from "../../news";
 
-const NewsList = () => {
+const SearchNewsList = () => {
   return (
     <div className="flex flex-wrap gap-y-5 justify-evenly">
       {news &&
         news.map((newsItem) => {
           return (
-            <div className="" key={newsItem.Title}>
+            <div key={newsItem.Title}>
               <NewsCard newsItem={newsItem} />
             </div>
           );
@@ -17,4 +17,4 @@ const NewsList = () => {
   );
 };
 
-export default NewsList;
+export default SearchNewsList;

@@ -1,16 +1,11 @@
 import "./App.css";
-import NavBar from "./components/nav-component";
-import NewsList from "./components/news-list.component";
+import Home from "./components/home.component";
 
 function App() {
   return (
-    <div className="w-1440px">
+    <div>
       <h1 className="text-3xl text-center py-5">See The Latest News</h1>
-      <div className=" text-center py-8">
-        <NavBar />
-      </div>
-
-      <NewsList />
+      <Home />
     </div>
   );
 }

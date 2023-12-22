@@ -2,7 +2,7 @@ import React from "react";
 
 const NewsCard = (newsItem) => {
   const { title, Url, Image, Description, Source } = newsItem.newsItem;
-  console.log(title, Url, Image, Description, Source);
+  // console.log(title, Url, Image, Description, Source);
   return (
     <div className="max-w-sm mx-auto bg-white shadow-md rounded-lg overflow-hidden">
       <img
