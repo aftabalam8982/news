@@ -23,13 +23,16 @@ const NavBar = () => {
           Country
         </button>
       </Link>
-
-      <button className="bg-slate-500 hover:bg-slate-700 text-white font-small py-2 px-3 rounded-xl mx-5 mt-2">
-        Crypto
-      </button>
-      <button className="bg-slate-500 hover:bg-slate-700 text-white font-small py-2 px-3 rounded-xl mx-5 mt-2">
-        World
-      </button>
+      <Link to="/crypto">
+        <button className="bg-slate-500 hover:bg-slate-700 text-white font-small py-2 px-3 rounded-xl mx-5 mt-2">
+          Crypto
+        </button>
+      </Link>
+      <Link to="/world">
+        <button className="bg-slate-500 hover:bg-slate-700 text-white font-small py-2 px-3 rounded-xl mx-5 mt-2">
+          World
+        </button>
+      </Link>
     </div>
   );
 };

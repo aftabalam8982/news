@@ -386,3 +386,264 @@ export const countries = [
     },
   },
 ];
+
+export const cryptoes = [
+  {
+    Title:
+      "Amp price live today (22 Dec 2023) - Why Amp price is falling by 1.33% today",
+    Source: "economictimes.indiatimes.com",
+    Url: "http://economictimes.indiatimes.com/markets/cryptocurrency/amp-price/cryptodetail/symbol-amp.cms",
+    PublishedOn: "2023-12-22T17:02:13.483Z",
+    Description:
+      "Amp price live updates on The Economic Times. Check out why Amp price is falling(22 Dec 2023) today. Get detailed Amp cryptocurrency price news, analysis and more.",
+    Language: "en",
+    Image: "https://economictimes.indiatimes.com/photo/83206419.cms",
+    SourceNationality: "in",
+    TitleSentiment: {
+      sentiment: "negative",
+      score: -0.51,
+    },
+    Summary:
+      "However, there are some currencies that accept investment only in Bitcoins or other cryptocurrencies. Yes, you can invest in cryptocurrencies using Indian currency, but you cannot use cash for the payment.",
+    Countries: ["in"],
+    CryptoCurrencies: ["Bitcoin"],
+  },
+  {
+    Title: "Clock Ticking: 6 Hours Left in MetaWin",
+    Source: "finsmes.com",
+    Url: "https://www.finsmes.com/2023/12/clock-ticking-6-hours-left-in-metawins-thrilling-1-million-usdc-prize-race.html",
+    PublishedOn: "2023-12-22T15:36:46.000Z",
+    Description:
+      "MetaWin, the premier web3 competition platform leveraging blockchain technology, is counting down the last 6 hours in its record-breaking MetaWin Millionaire prize draw, where one lucky player will win a life-changing $1 Million USDC",
+    Language: "en",
+    Image:
+      "https://www.finsmes.com/wp-content/uploads/2023/12/Frame_48095694_1703257414xkr7dwecTN.jpg",
+    SourceNationality: "gb",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.41,
+    },
+    Summary:
+      "MetaWin, the premier web3 competition platform leveraging blockchain technology, is counting down the last 6 hours in its record-breaking MetaWin Millionaire prize draw, where one lucky player will win a life-changing $1 Million USDC! But even with the excitement mounting, there are currently just over 5000 registered entries, which still offers attractive odds for new participants.",
+    Countries: [],
+    CryptoCurrencies: ["Usd Coin", "Ethereum"],
+  },
+  {
+    Title:
+      "Clock Ticking: 6 Hours Left in MetaWin’s Thrilling $1 Million USDC Prize Race",
+    Source: "finbold.com",
+    Url: "https://finbold.com/clock-ticking-6-hours-left-in-metawins-thrilling-1-million-usdc-prize-race",
+    PublishedOn: "2023-12-22T15:13:24.000Z",
+    Description:
+      "London, UK, December 22nd, 2023, Chainwire Revolutionary Web3 Platform Prepares to Award $1 Million USDC Prize MetaWin, the premier web3 … Continued",
+    Language: "en",
+    Image:
+      "https://finbold.com/app/uploads/2023/12/Frame_48095694_1703257414xkr7dwecTN.jpg",
+    SourceNationality: "gb",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.44,
+    },
+    Summary:
+      "Press Releases are sponsored contentPress Releases are sponsored contentMetaWin, the premier web3 competition platform leveraging blockchain technology, is counting down the last 6 hours in its record-breaking MetaWin Millionaire prize draw, where one lucky player will win a life-changing $1 Million USDC! But even with the excitement mounting, there are currently just over 5000 registered entries, which still offers attractive odds for new participants.",
+    Countries: ["gb"],
+    CryptoCurrencies: ["Usd Coin", "Ethereum"],
+  },
+  {
+    Title:
+      "Whales sell over $2 billion Bitcoin in a week; Is a crash incoming?",
+    Source: "finbold.com",
+    Url: "https://finbold.com/whales-sell-over-2-billion-bitcoin-in-a-week-is-a-crash-incoming",
+    PublishedOn: "2023-12-22T15:02:40.000Z",
+    Description:
+      "Over the past week, large Bitcoin holders, often called whales, have offloaded near 50,000 BTC, equivalent to about $2.20 billion in value.",
+    Language: "en",
+    Image:
+      "https://finbold.com/app/uploads/2023/12/Whales-sell-over-2-billion-Bitcoin-in-a-week-Is-a-crash-incoming.jpg",
+    SourceNationality: "gb",
+    TitleSentiment: {
+      sentiment: "negative",
+      score: -0.55,
+    },
+    Summary:
+      "Amid the ongoing cryptocurrency rally and the surge in prices of digital assets, it might be surprising to see that some investors are selling their Bitcoins (BTC). The cryptocurrency’s price surge has garnered attention from institutional and retail investors, prompting certain long-term holders to capitalize on the chance to secure substantial profits.",
+    Countries: [],
+    CryptoCurrencies: ["Bitcoin"],
+  },
+  {
+    Title: "3 cryptocurrencies to avoid trading next week",
+    Source: "finbold.com",
+    Url: "https://finbold.com/3-cryptocurrencies-to-avoid-trading-next-week-13",
+    PublishedOn: "2023-12-22T14:42:10.000Z",
+    Description:
+      "Oasis Network (ROSE), BakeryToken (BAKE), and Injective (INJ) are cryptocurrencies to avoid trading next week, due to an overbought RSI.",
+    Language: "en",
+    Image:
+      "https://finbold.com/app/uploads/2023/12/cryptocurrencies-avoid-trading-next-week.jpg",
+    SourceNationality: "gb",
+    TitleSentiment: {
+      sentiment: "negative",
+      score: -0.53,
+    },
+    Summary:
+      "Meanwhile, some cryptocurrencies are showing overbought signals and should be avoided trading next week. Cryptocurrency traders should avoid trading these projects next week as part of a solid risk management strategy.",
+    Countries: [],
+  },
+  {
+    Title: "3 cryptocurrencies under $0.10 to buy next week",
+    Source: "finbold.com",
+    Url: "https://finbold.com/3-cryptocurrencies-under-0-10-to-buy-next-week-7",
+    PublishedOn: "2023-12-22T14:29:24.000Z",
+    Description:
+      "Market analysis has delivered a list of three cryptos that cost less than $0.10 but might be among the best buying opportunities next week.",
+    Language: "en",
+    Image:
+      "https://finbold.com/app/uploads/2023/12/3-cryptocurrencies-under-0.10-to-buy-next-week-1.jpg",
+    SourceNationality: "gb",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.78,
+    },
+    Summary:
+      "With this in mind, Finbold has analyzed the cryptocurrency market for a list of three digital assets that currently cost less than ten cents apiece but might be among the best buying opportunities for crypto traders and investors in the week to arrive. However, doing one’s own due diligence and researching them is critical before investing any significant amount of money in them.",
+    Countries: [],
+    CryptoCurrencies: ["Vechain"],
+  },
+  {
+    Title: "Elon Musk describes how to solve the money problem; Is it crypto?",
+    Source: "finbold.com",
+    Url: "https://finbold.com/elon-musk-describes-how-to-solve-the-money-problem-is-it-crypto",
+    PublishedOn: "2023-12-22T14:18:56.000Z",
+    Description:
+      "Elon Musk talked to Cathie Wood on Thursday, to discuss the future and technologies, including money and crypto.",
+    Language: "en",
+    Image: "https://finbold.com/app/uploads/2023/12/Elon-Musk-Money.jpg",
+    SourceNationality: "gb",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.56,
+    },
+    Summary:
+      "So think of it like it’s an information system, and you want to minimize noise, minimize latency, minimize packet loss. Fraud is kind of like packet loss.",
+    Countries: [],
+    CryptoCurrencies: ["Bitcoin", "Dogecoin"],
+  },
+  {
+    Title:
+      "Bitcoin set for first-ever weekly Golden Cross; Start of BTC bull run?",
+    Source: "finbold.com",
+    Url: "https://finbold.com/bitcoin-set-for-first-ever-weekly-golden-cross-start-of-btc-bull-run",
+    PublishedOn: "2023-12-22T13:49:18.000Z",
+    Description:
+      "Bitcoin's technical analysis indicates the potential for the asset to embark on another all-time high, due to potential weekly golden cross.",
+    Language: "en",
+    Image:
+      "https://finbold.com/app/uploads/2023/12/Bitcoin-set-for-first-ever-weekly-Golden-Cross-Start-of-BTC-bull-run.jpg",
+    SourceNationality: "gb",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.96,
+    },
+    Summary:
+      "Nevertheless, Bitcoin’s technical analysis indicates the potential for the asset to embark on another all-time high, drawing insights from historical price movements. Specifically, the flagship cryptocurrency looks set to conclude its first-ever weekly golden cross pattern—a bullish long-term price signal.",
+    Countries: [],
+    CryptoCurrencies: ["Bitcoin"],
+  },
+];
+
+export const world = [
+  {
+    Title:
+      "All I want for Christmas is... Gucci, darling! Salma Hayek shops for jewels at brand owned by her billionaire husband while out in Beverly Hills",
+    Source: "dailymail.co.uk",
+    Url: "http://www.dailymail.co.uk/tvshowbiz/article-12892379/Salma-Hayek-shopping-trip-Gucci-store-Beverly-Hills.html",
+    PublishedOn: "2023-12-22T05:42:08.000Z",
+    Description:
+      "Salma Hayek was spotted picking out a ring at a Gucci store in Beverly Hills on Thursday while enjoying a day of pre-Christmas shopping.",
+    Language: "en",
+    Image:
+      "https://i.dailymail.co.uk/1s/2023/12/22/03/79240209-0-image-m-82_1703217248831.jpg",
+    SourceNationality: "gb",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.93,
+    },
+    Summary:
+      "Salma Hayek was spotted picking out a ring at a Gucci store in Beverly Hills on Thursday while enjoying a day of pre-Christmas shopping. Of course, Salma is rather familiar with Gucci - her French billionaire husband François-Henri Pinault is the chairman of the company that owns the brand and many others.",
+    Countries: ["fr", "it"],
+    Categories: {
+      label: "luxury good",
+      IPTCCode: "medtop:20000249",
+    },
+  },
+  {
+    Title:
+      "Charles Bronson sends luxury Christmas hamper to ex-wife from jail in bid to win her back",
+    Source: "mirror.co.uk",
+    Url: "https://www.mirror.co.uk/news/uk-news/notorious-prisoner-charles-bronson-lavishes-31707871",
+    PublishedOn: "2023-12-22T13:39:06.000Z",
+    Description:
+      "Irene Dunroe was sent the expensive hamper from inside HMP Woodhill. The 71-year-old divorced from Charles Bronson in 1976 but stayed in touch and recently met for the first time in 50 years",
+    Language: "en",
+    Image:
+      "https://i2-prod.mirror.co.uk/incoming/article31707266.ece/ALTERNATES/s1200/5_AHP_CHP_22656.jpg",
+    SourceNationality: "gb",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.99,
+    },
+    Summary:
+      "Irene Dunroe was sent the expensive hamper from inside HMP Woodhill. Irene says Bronson - Britain's most notorious prisoner - wants to rekindle their relationship when he's released.",
+    Countries: ["gb"],
+    Categories: {
+      label: "competition discipline",
+      IPTCCode: "medtop:20000822",
+    },
+  },
+  {
+    Title: "How ‘Christmas face’ could be the gift you weren’t expecting",
+    Source: "thesun.co.uk",
+    Url: "https://www.thesun.co.uk/health/25138997/christmas-face-tricks-to-combat-it-dry-skin-breakouts",
+    PublishedOn: "2023-12-22T12:52:52.000Z",
+    Description:
+      "WITH many of us getting some much needed time off around Christmas, you’d expect to emerge from the holiday looking rested and fresh-faced. But our festive fun and feasting can leave a few un…",
+    Language: "en",
+    Image:
+      "https://www.thesun.co.uk/wp-content/uploads/2023/12/newspress-collage-y1im0lpjx-1703249259070.jpg?1703249352&strip=all&quality=100&w=1920&h=1080&crop=1",
+    SourceNationality: "gb",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.73,
+    },
+    Summary:
+      'Dr Vanita told Sun Health:"‘Festive face\' is dry, dull, and acne-prone skin which is often caused by lack of sleep, over-consumption of alcohol and binge-eating greasy or sugary foods." "Alcohol is a diuretic, meaning it increases urine production to promote water loss in the body," the skin doctor explained.',
+    Countries: ["tr"],
+    Categories: {
+      label: "cosmetics",
+      IPTCCode: "medtop:20001248",
+    },
+  },
+  {
+    Title: "Getty Realty Corp. Announces 2023 Getty Gives Activity",
+    Source: "businesswire.com",
+    Url: "https://www.businesswire.com/news/home/20231222467572/en/Getty-Realty-Corp.-Announces-2023-Getty-Gives-Activity",
+    PublishedOn: "2023-12-22T00:00:00.236Z",
+    Description:
+      "As part of its ongoing commitment to effective environmental, social and governance (",
+    Language: "en",
+    Image:
+      "https://mms.businesswire.com/media/20231222467572/en/1977603/23/Getty_Realty_logo.jpg",
+    SourceNationality: "us",
+    TitleSentiment: {
+      sentiment: "positive",
+      score: 0.88,
+    },
+    Summary:
+      "Getty Gives provides our team with a formal program to support causes that are meaningful to us and the communities in which we live and work. Getty Gives includes corporate donations to charitable organizations selected by our employees, company matching for employee charitable donations, and additional paid time off for employee volunteer opportunities.",
+    Countries: ["us"],
+    Categories: {
+      label: "sport",
+      IPTCCode: "medtop:15000000",
+    },
+  },
+];
