@@ -15,15 +15,14 @@ const NewsCard = (newsItem) => {
         <h2 className="text-xl font-semibold mb-2">{title}</h2>
         <p className="text-gray-600 mb-4">{Description}</p>
 
-        <div className="flex items-center">
-          {/* <img
-            className="w-8 h-8 rounded-full mr-2"
-            src="author-avatar.jpg"
-            alt="Author Avatar"
-          /> */}
-          <a href={Url} className="text-sm text-gray-700">
-            {Source}
+        <div className="flex items-center justify-between">
+          <a
+            href={Url}
+            className="border-2 border-cyan-600 hover:bg-slate-200 text-cyan-700 font-small py-1 px-2 rounded-xl mx-5 mt-2"
+          >
+            read more...
           </a>
+          <p className="text-sm text-gray-700">{Source}</p>
         </div>
       </div>
     </div>

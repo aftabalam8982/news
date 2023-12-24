@@ -4,7 +4,7 @@ import { cryptoes } from "../../news";
 
 const CryptoNewsList = () => {
   return (
-    <div className="flex flex-wrap gap-y-5 justify-evenly">
+    <div className="flex flex-wrap gap-y-5 justify-evenly items-start">
       {cryptoes &&
         cryptoes.map((newsItem) => {
           return (

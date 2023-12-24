@@ -1,12 +1,12 @@
 import React from "react";
 import NewsCard from "../news-card.component";
-import { news } from "../../news";
+// import { news } from "../../news";
 
-const SearchNewsList = () => {
+const SearchNewsList = ({ newsData }) => {
   return (
     <div className="flex flex-wrap gap-y-5 justify-evenly">
-      {news &&
-        news.map((newsItem) => {
+      {newsData &&
+        newsData.map((newsItem) => {
           return (
             <div key={newsItem.Title}>
               <NewsCard newsItem={newsItem} />
